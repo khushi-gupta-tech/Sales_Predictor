@@ -73,5 +73,3 @@ Django templates for dynamic rendering.
 
 
 
-
-# ![WhatsApp Image 2024-12-12 at 22 10 44_fac5c82d](https://github.com/user-attachments/assets/8374160d-3f76-4086-836f-d47f05b43ada)
